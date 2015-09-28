@@ -1,0 +1,1 @@
+footer_common.php
