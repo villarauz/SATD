@@ -5,6 +5,6 @@
 	<title>Inicio</title>
 </head>
 <body>
-	Hola mundo
+	Hola soy goku
 </body>
 </html>
